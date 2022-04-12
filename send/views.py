@@ -22,5 +22,5 @@ def sendmail(request):
 
     return render(request,'send/sendmail.html')
 
-
-
+def login(request):
+    return render(request)
