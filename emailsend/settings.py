@@ -79,6 +79,10 @@ TEMPLATES = [
 ]
 
 WSGI_APPLICATION = 'emailsend.wsgi.application'
+# WSGI_APPLICATION = 'emailsend.wsgi.application'
+# WSGI_APPLICATION = 'emailsend.wsgi.application'
+# WSGI_APPLICATION = 'emailsend.wsgi.application'
+# WSGI_APPLICATION = 'emailsend.wsgi.application'
 
 
 # Database
